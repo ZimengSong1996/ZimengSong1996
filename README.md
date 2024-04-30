@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1612948491/12491/waveboi.gif?1612948491" width="35"/> Hi there!</h1>
+<h1><img src="https://media.tenor.com/PN7Bccnho5wAAAAi/penguin-hi.gif" width="60"/> Hi there!</h1>
 
 
 <p align="center"> Welcome to my page! </p>
