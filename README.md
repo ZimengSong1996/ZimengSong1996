@@ -8,8 +8,9 @@
 
 <p>
   
-  
-- 🔭 Check out my porfolio at https://www.linkedin.com/in/zimeng-song-0b611729b/ to learn more about me and my experience!
+- 💥 Here you could find all my recent programs.
+
+- 📍 Check out my porfolio at https://www.linkedin.com/in/zimeng-song-0b611729b/ to learn more about me and my experience!
 
 - 🏫 I used to work as an official civile servant for <b>Housing and Urban-Rural Development Authority</b> in Hangzhou, China, resiponsible for big data platforms and public affairs management. (2022-2023)
 </p>
