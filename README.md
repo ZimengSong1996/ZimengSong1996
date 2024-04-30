@@ -16,9 +16,9 @@
 <h3>Languages</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-f8c256?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="R" src="https://img.shields.io/badge/-R-276DC2?style=flat-square&logo=R&logoColor=white" />
   <img alt="ABM" src="https://img.shields.io/badge/ABM-NetLogo-red" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=Java&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/GEE-JavaScript-White" />
+  <img alt="R" src="https://img.shields.io/badge/-R-276DC2?style=flat-square&logo=R&logoColor=white" />
   <img alt="mySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
   
   
