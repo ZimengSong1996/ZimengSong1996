@@ -15,6 +15,12 @@
 - 🏫 I used to work as an official civil servant for <b>Housing and Urban-Rural Development Authority</b> in Hangzhou, China, resiponsible for big data platforms and public affairs management. (2022-2023)
 </p>
 
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ZimengSong1996)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <h3>Languages</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-f8c256?style=flat-square&logo=Python&logoColor=white" />
