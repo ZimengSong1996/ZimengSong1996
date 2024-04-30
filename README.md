@@ -3,7 +3,7 @@
 
 <p align="center"> Welcome to my page! </p>
 
-<p> I'm Zimeng, originally from <b>China</b>, with a degree in Urban Planning and Design from the <b> University of Sheffield</b> in <b>Sheffield, UK</b>, and currently pursuing a MSc. in Urban Spatial Science from the <img src="https://i0.wp.com/www.interdisciplinaryitaly.org/wp-content/uploads/2016/01/ucl-logo.png" width="15"/> <b>University College of London</b> in <b>London, UK</b>.</p>
+<p> I'm Zimeng, originally from <b>China</b>, with a MA degree in Urban Planning and Design from the <b> University of Sheffield</b> in <b>Sheffield, UK</b>, and currently pursuing a second MSc. degree in Urban Spatial Science from the <img src="https://i0.wp.com/www.interdisciplinaryitaly.org/wp-content/uploads/2016/01/ucl-logo.png" width="15"/> <b>University College of London</b> in <b>London, UK</b>.</p>
 
 <p>
   
