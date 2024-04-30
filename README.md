@@ -18,7 +18,7 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ZimengSong1996)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ZimengSong1996&theme=monokai&rank=-?)
 
 
 <h3>Languages</h3>
