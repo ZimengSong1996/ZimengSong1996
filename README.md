@@ -29,6 +29,7 @@
   
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-20B2AA?style=flat-square&logo=GitHub&logoColor=#181717" /> 
   <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-78C5EF?style=flat-square&logo=Jupyter&logoColor=#F37626" /> 
+  <img alt="NetLogo" src="https://img.shields.io/badge/NetLogo-red" /> 
   <img alt="RStudio" src="https://img.shields.io/badge/-RStudio-050505?style=flat-square&logo=Rstudio&logoColor=#75AADB" /> 
   <img alt="Qgis" src="https://img.shields.io/badge/-Qgis-EA7600?style=flat-square&logo=Qgis&logoColor=#589632" /> 
   <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-D2B48C?style=flat-square&logo=PyCharm&logoColor=#000000" />
