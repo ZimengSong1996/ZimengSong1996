@@ -4,7 +4,7 @@
 <h4 align="center"> Welcome to my page! </h4>
 
 <p> I'm Zimeng, originally from <b>China</b>, with a B.E. Architecture degree from the 
-<img src="https://upload.wikimedia.org/wikipedia/en/e/ec/SHU_VI_LOGO.svg" width="17"/> <b>Shanghai University</b> in <b>Shanghai, China</b>, and a MA degree in Urban Planning and Design from the <img src="https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/312364733_10159919537590259_1376355909264838853_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=1X3F6rDnfH0Q7kNvgEdk14c&_nc_ht=scontent-lhr6-1.xx&oh=00_AfBrAhUCFNCHhGwUeEiBiNLsTZz5PsqsU58A5oEfZFmmfQ&oe=663710F4" width="17"/> <b> University of Sheffield</b> in <b>Sheffield, UK</b>. I'm currently pursuing a second MSc. degree in Urban Spatial Science from the <img src="https://i0.wp.com/www.interdisciplinaryitaly.org/wp-content/uploads/2016/01/ucl-logo.png" width="17"/> <b>University College of London</b> in <b>London, UK</b>.</p>
+<img src="https://upload.wikimedia.org/wikipedia/en/e/ec/SHU_VI_LOGO.svg" width="17"/> <b>Shanghai University</b> in <b>Shanghai, China</b>, and a MA degree in Urban Planning and Design from the <img src="https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/312364733_10159919537590259_1376355909264838853_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=B2bLSwCn2fcQ7kNvgFdPR9a&_nc_ht=scontent-lhr6-1.xx&oh=00_AYB3TJKFNhfveCA1uM6Dh4-qfyBSK5yFAT6khJFetlIXwQ&oe=664FE534" width="17"/> <b> University of Sheffield</b> in <b>Sheffield, UK</b>. I'm currently pursuing a second MSc. degree in Urban Spatial Science from the <img src="https://i0.wp.com/www.interdisciplinaryitaly.org/wp-content/uploads/2016/01/ucl-logo.png" width="17"/> <b>University College of London</b> in <b>London, UK</b>.</p>
 
 <p>
   
