@@ -10,7 +10,7 @@
   
 - 💥 Here you could find all my recent programs.
 
-- 📍 Check out my porfolio at https://www.linkedin.com/in/zimeng-song-0b611729b/ to learn more about me and my experience!
+- 📍 Check out my porfolio at https://www.linkedin.com/in/zimeng-song-0b611729b/ or my page at https://www.kcl.ac.uk/people/zimeng-song to learn more about me and my experience!
 
 - 🏫 I used to work as an official civil servant for <b>Housing and Urban-Rural Development Authority</b> in Hangzhou, China, responsible for big data platforms and public affairs management. (2022-2023)
 </p>
